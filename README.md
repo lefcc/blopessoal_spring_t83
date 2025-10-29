@@ -206,6 +206,20 @@ erDiagram
 <br />
 
  
+| Item | Descrição |
+| :--- | :--- | 
+| Servidor | Tomcat |
+| Linguagem de programação | Java |
+| Framework | Spring Boot |
+| ORM | JPA + Hibernate |
+| Banco de dados Relacional | MySQL |
+| Segurança | Spring Security |
+| Autenticação | JWT |
+| Testes automatizados | JUnit |
+| Documentação | SpringDoc |
+ 
+<br />
+ 
 ## 6. Requisitos
  
 <br />
